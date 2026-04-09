@@ -1,0 +1,1 @@
+Cafe sales data from https://www.kaggle.com/datasets/ihelon/coffee-sales.

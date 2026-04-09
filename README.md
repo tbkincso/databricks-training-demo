@@ -1,1 +1,1 @@
-# Databricks training demo notebooks
+# Databricks training demo notebooks and queries
